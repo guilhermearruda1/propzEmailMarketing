@@ -1,0 +1,139 @@
+header {
+    padding: 40px 0 40px 0;
+    background: url('../img/mercadoBkg.jpg');
+}
+
+.logoImg {
+    display: block;
+    width: 25%;
+    margin-top: 40px;
+    margin-bottom: 0px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #696868;
+    margin-top: 50px;
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+}
+
+.prodImg:hover {
+    transform: scale(1.2);
+}
+
+.prodImg {
+    width: 75%;
+}
+
+.prodImgLisador:hover {
+    transform: scale(1.2);
+}
+
+.prodImgLisador {
+    width: 80%;
+    margin-bottom: 50px;
+}
+
+.prodImgMenor:hover {
+    transform: scale(1.2);
+} 
+
+.prodImgMenor {
+    width: 45%;
+}
+
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: middle;
+    margin: 0 1.5% 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.produtosDesc {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0984e3;
+    margin-bottom: 12px;
+}
+
+
+.produtosDescMenor {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0984e3;
+    margin-bottom: 8px;
+}
+
+.produtosDescLisador {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0984e3;
+    margin-bottom: 55px;
+}
+
+.produtosDescOpti {
+    font-size: 22px;
+    font-weight: bold;
+    color: #0984e3;
+    margin-bottom: 8px;
+}
+
+.produtoValidade {
+    font-size: 18px;
+}
+
+.produtoValidadeOpti {
+    margin-top: 50px;
+}
+
+.produtoPreco {
+    font-size: 22px;
+    font-weight: bold;
+    color: #d63031;
+    margin: 10px 0 0 0;
+}
+
+.produtoPrecoOpti {
+    font-size: 22px;
+    font-weight: bold;
+    color: #d63031;
+    margin: 35px 0 0 0;
+}
+
+.footerRedeSocial {
+    text-align: center;
+    color: #696868;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.footerFaixa {
+    text-align: center;
+    background-color: #FD7205;
+    padding: 20px 0  0 ;
+}
+
+.footerEspacamentoImg {
+    padding-right: 20px;
+}
+
+.footerTexto {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
